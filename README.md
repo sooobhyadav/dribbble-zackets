@@ -1,7 +1,7 @@
-<h1>Deribble Zackets - Landing Page</h1>
+<h1>Deribbble Zackets - Landing Page</h1>
 Welcome to the official landing page for Deribble Zackets, a sleek and modern website built to showcase.
 
-🌐 Live Demo: <a href="https://deribblezackets.netlify.app">Deribble-Zacket</a>
+🌐 Live Demo: <a href="https://deribbblezackets.netlify.app">Deribble-Zacket</a>
 
 Modern Design: Clean, responsive, and user-friendly interface.
 Fully Responsive: Works seamlessly on all devices (mobile, tablet, desktop).
@@ -11,7 +11,7 @@ Optimized Performance: Fast loading and lightweight.
   <li>CSS3: To style and design the website.</li>
 </ol>
 
-This project is deployed on Netlify. Visit the live site <a href="https://deribblezackets.netlify.app">Here</a>
+This project is deployed on Netlify. Visit the live site <a href="https://deribbblezackets.netlify.app">Here</a>
 
 <h2>screenshot </h2>
 <img src="https://github.com/sooobhyadav/css-project-1/blob/main/derrible-zackets.png?raw=true" alt="Girl in a jacket">
